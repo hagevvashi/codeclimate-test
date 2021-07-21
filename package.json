@@ -1,0 +1,22 @@
+{
+  "name": "codeclimate-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagevvashi/codeclimate-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hagevvashi/codeclimate-test/issues"
+  },
+  "homepage": "https://github.com/hagevvashi/codeclimate-test#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
